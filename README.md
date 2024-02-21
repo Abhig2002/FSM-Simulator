@@ -1,6 +1,3 @@
-Below is a template for a README.md file for the Finite State Machine Simulator project:
-
----
 
 # Finite State Machine Simulator
 
@@ -11,9 +8,7 @@ Welcome to the Finite State Machine (FSM) Simulator! This Java program allows yo
 - [Features](#features)
 - [Usage](#usage)
 - [Classes Overview](#classes-overview)
-- [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Introduction
 Finite State Machines are computational models used to describe dynamic behavior in various applications, including software engineering, natural language processing, and more. This FSM Simulator provides a simple yet powerful tool to define states, transitions, and simulate the behavior of a finite state machine.
 
@@ -50,12 +45,3 @@ Finite State Machines are computational models used to describe dynamic behavior
 - **`Machine`:** Represents the finite state machine, handles state transitions, and maintains the current active state.
 - **`State`:** Represents a state in the finite state machine, contains information about state name, type (start/finish), and adjacent states.
 
-## Contributing
-Contributions are welcome! If you have any ideas, suggestions, or bug fixes, feel free to open an issue or create a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README.md file further to include specific installation instructions, examples, or any additional information relevant to your project.
